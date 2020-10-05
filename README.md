@@ -1,6 +1,6 @@
 # doit
 
-A new Flutter application.
+A To-do app built in Flutter.
 
 ## Getting Started
 
