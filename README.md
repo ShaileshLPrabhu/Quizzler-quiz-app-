@@ -1,5 +1,5 @@
 # doit
 
-This Repositary contain Project Files of the To-do app which i named doit
-which i Developed in Flutter Framework
-
+This Repositary contains project files of a to-do app which i named doit
+which i developed in Flutter framework using Dart language
+ 
